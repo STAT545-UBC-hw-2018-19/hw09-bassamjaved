@@ -26,6 +26,16 @@ Files used by `make analysis2`:<br/>
 [report2.rmd](https://github.com/STAT545-UBC-students/hw09-bassamjaved/blob/master/report2.Rmd) RMarkdown file for making report2 <br/>
 [histogram2.R](https://github.com/STAT545-UBC-students/hw09-bassamjaved/blob/master/histogram2.R) script for creating a frequency table of initial letters <br/>
 
+### Make commands
+
+In addition to specific file commands, the following are phony targets:<br/>
+`all`: makes all files (`analysis1` and `analysis2`)<br/>
+`analysis1`: makes only jennybc's analysis files (`analysis1`)<br/>
+`analysis2`: makes my analysis files only (`analysis2`)<br/>
+`clean`: removes all files<br/>
+`clean1`: removes only `analysis1` files<br/>
+`clean2`: removes only `analysis2` files<br/>
+
 ### Author
 
 Bassam Javed<br/>

@@ -7,6 +7,12 @@ analysis2: report2.html
 clean:
 	rm -f words.txt histogram.tsv histogram.png report.md report.html
 	rm -f histogram2.tsv histogram2.png report2.md report2.html
+	
+clean1:
+	rm -f words.txt histogram.tsv histogram.png report.md report.html
+
+clean2:
+	rm -f words.txt histogram2.tsv histogram2.png report2.md report2.html
 
 report.html: report.rmd histogram.tsv histogram.png
 	Rscript -e 'rmarkdown::render("$<")'
