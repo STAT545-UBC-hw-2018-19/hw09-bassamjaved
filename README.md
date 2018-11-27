@@ -8,9 +8,9 @@ tidyverse<br/>
 
 This is a repository containing a submission for HW09 assignment for STAT 547 to demonstrate the use of `Makefile`. Note that the original analysis of word count frequency was created by [Jennifer Bryan (GitHub: jennybc)](https://github.com/jennybc), located [here](https://github.com/STAT545-UBC/make-activity).
 
-In this homework repo, I have labelled jennybc's analysis as 'analysis1', which outputs words.txt, histogram.tsv, histogram.png, report.md, and report.html, using the files histogram.R and report.rmd.
+In this homework repo, I have labelled jennybc's analysis as `analysis1`, which outputs words.txt, histogram.tsv, histogram.png, report.md, and report.html, using the files histogram.R and report.rmd.
 
-I have created a new analysis, labelled 'analysis2' which counts the number of words that begin with each letter of the English alphabet. The outputs are words.txt, histogram2.tsv, histogram2.png, report2.md, and report2.html, using the files histogram2.R and report2.rmd.
+I have created a new analysis, labelled `analysis2` which counts the number of words that begin with each letter of the English alphabet. The outputs are words.txt, histogram2.tsv, histogram2.png, report2.md, and report2.html, using the files histogram2.R and report2.rmd.
 
 ### Contents
 
