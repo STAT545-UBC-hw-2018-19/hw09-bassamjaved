@@ -15,7 +15,7 @@ I have created a new analysis, labelled `analysis2` which counts the number of w
 ### Contents
 
 Files made by `make analysis2`:<br/>
-[word.txt](https://github.com/STAT545-UBC-students/hw09-bassamjaved/blob/master/words.txt) list of words from `/usr/share/dict/words` <br/>
+[words.txt](https://github.com/STAT545-UBC-students/hw09-bassamjaved/blob/master/words.txt) list of words from `/usr/share/dict/words` <br/>
 [histogram2.tsv](https://github.com/STAT545-UBC-students/hw09-bassamjaved/blob/master/histogram2.tsv) frequency table of words beginning with each of the letters in the English alphabet <br/>
 [histogram2.png](https://github.com/STAT545-UBC-students/hw09-bassamjaved/blob/master/histogram2.png) image of initial letters histogram <br/>
 [report2.html](https://github.com/STAT545-UBC-students/hw09-bassamjaved/blob/master/report2.html) report displaying result of `analysis2` <br/>
